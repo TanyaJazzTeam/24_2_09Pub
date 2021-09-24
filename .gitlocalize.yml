@@ -1,6 +1,6 @@
 synchronize:
   paths:
-    - sourse:
+    - sourсe: .
     exclude:
       - "*.ipynb"
     include:
