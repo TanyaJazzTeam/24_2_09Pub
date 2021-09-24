@@ -1,4 +1,4 @@
 synchronize:
   paths:
-    - include:
+    include:
       - "de/*.*"
