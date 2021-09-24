@@ -1,4 +1,7 @@
 synchronize:
   paths:
+    - sourse:
+    exclude:
+      - "*.ipynb"
     include:
-      - "de/*.*"
+      - "**/*.ipynb"
