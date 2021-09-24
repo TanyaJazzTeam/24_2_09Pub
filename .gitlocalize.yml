@@ -3,5 +3,3 @@ synchronize:
     - sourсe: .
     exclude:
       - "*.ipynb"
-    include:
-      - "**/*.ipynb"
