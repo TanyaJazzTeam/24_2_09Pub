@@ -1,5 +1,5 @@
 synchronize:
   paths:
-  - sourсe: .
+  - source: .
     exclude:
       - "*.md"
